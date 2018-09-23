@@ -10,6 +10,9 @@
     "test:e2e": "vue-cli-service test:e2e"
   },
   "dependencies": {
+    "@gfx/zopfli": "^1.0.9",
+    "brotli-webpack-plugin": "^1.0.0",
+    "compression-webpack-plugin": "^2.0.0",
     "vue": "^2.5.17",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
